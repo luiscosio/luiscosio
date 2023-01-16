@@ -1,3 +1,4 @@
+<div class="background: black;">
 <div align="center">
 <img src="https://ipfs.io/ipfs/QmfJBRk7H8yJaNVagDnFLB3XvcNzPXrZU5xNTUoFkWfG9B/4548.gif" align="center" style="width: 100%" />
 </div>  
@@ -26,4 +27,5 @@
 
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=luiscosio&&style=flat-square" align="center" />
+</div>  
 </div>  
