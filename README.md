@@ -6,27 +6,6 @@
 ### <div align="center">I'm Luis Cosio, an entrepreneur, investor, and engineer.</div>  
   
 
-<br/>  
-
-
-## My Skill Set  
-<table><tr><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td><td valign="top" width="33%">
-
-
-
-</td></tr></table>  
-
-<br/>  
-
-
 ## Connect with me  
 <div align="center">
 <a href="https://github.com/luiscosio" target="_blank">
@@ -52,24 +31,6 @@
 
 <br/>  
 
-
-## Recent Blog Posts  
-  
-
-<br/>  
-
-  
-
-<br/>  
-
 <div align="center">
 <img src="https://komarev.com/ghpvc/?username=luiscosio&&style=flat-square" align="center" />
 </div>  
-  
-
-<br/>  
-
-<div align="center"></div>
-<br />
-
-
