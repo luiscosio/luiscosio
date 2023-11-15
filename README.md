@@ -1,29 +1,42 @@
 <div align="center">
-<img src="https://ipfs.io/ipfs/QmfJBRk7H8yJaNVagDnFLB3XvcNzPXrZU5xNTUoFkWfG9B/4548.gif" align="center" style="width: 100%" />
-</div>  
-  
-
-### <div align="center">I'm Luis Cosio, an entrepreneur, investor, and engineer.</div>  
-  
-
-## Connect with me  
-<div align="center">
-<a href="https://github.com/luiscosio" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>
-<a href="https://twitter.com/luiscosio" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/luiscosio" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/luiscosio" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>  
-</div>  
-
-<br/>  
+<img src="https://github.com/luiscosio/luiscosio/raw/fnky/img/fan-1.gif" alt="Fan" align="center">
+</div>
 
 <div align="center">
-<img src="https://komarev.com/ghpvc/?username=luiscosio&&style=flat-square" align="center" />
+<img src="https://github.com/luiscosio/luiscosio/raw/fnky/img/welcome-fire.gif" alt="Welcome" align="center">
+</div>
+
+<div align="center">
+to my personal GitHub profile!
+</div>
+
+<h3 align="center">
+<a href="https://luiscos.io">Visit my personal homepage
+<img src="https://github.com/luiscosio/luiscosio/raw/fnky/img/website.gif" alt="Visit homepage" align="center">
+</a>
+</h3>
+
+<hr>
+
+<div align="center">
+<p>Write something nice in my guest book:</p>
+<a href="https://github.com/luiscosio/luiscosio/issues"><img src="https://github.com/luiscosio/luiscosio/raw/fnky/img/guestbook.gif" alt="Guest book" align="center"></a>
+</div>
+
+<hr>
+
+<div align="center">
+<p>Have a good day!</p>
+<div>
+<img src="https://github.com/luiscosio/luiscosio/raw/fnky/img/smile.gif" alt="Smiley" align="center">
+</div>
+</div>
+
+<div align="center">
+<p></p>
+<img src="https://profile-counter.glitch.me/fnky/count.svg" alt="hit counter" align="center">
+</div>
+
+<div align="center">
+<img src="https://github.com/luiscosio/luiscosio/raw/fnky/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
 </div>
