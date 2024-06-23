@@ -1,9 +1,9 @@
 <div align="center">
-<img src="[https://github.com/luiscosio/luiscosio/raw/luiscosio/img/fan-1.gif](https://raw.githubusercontent.com/luiscosio/luiscosio/main/img/fan-1.gif)" alt="Fan" align="center">
+<img src="https://raw.githubusercontent.com/luiscosio/luiscosio/main/img/fan-1.gif" alt="Fan" align="center">
 </div>
 
 <div align="center">
-<img src="https://github.com/luiscosio/luiscosio/raw/luiscosio/img/welcome-fire.gif" alt="Welcome" align="center">
+<img src="https://raw.githubusercontent.com/luiscosio/luiscosio/main/img/welcome-fire.gif" alt="Welcome" align="center">
 </div>
 
 <div align="center">
@@ -12,7 +12,7 @@ to my personal GitHub profile!
 
 <h3 align="center">
 <a href="https://luiscos.io">Visit my personal homepage
-<img src="https://github.com/luiscosio/luiscosio/raw/luiscosio/img/website.gif" alt="Visit homepage" align="center">
+<img src="https://raw.githubusercontent.com/luiscosio/luiscosio/main/img/website.gif" alt="Visit homepage" align="center">
 </a>
 </h3>
 
@@ -28,7 +28,7 @@ to my personal GitHub profile!
 <div align="center">
 <p>Have a good day!</p>
 <div>
-<img src="https://github.com/luiscosio/luiscosio/raw/luiscosio/img/smile.gif" alt="Smiley" align="center">
+<img src="https://raw.githubusercontent.com/luiscosio/luiscosio/main/img/smile.gif" alt="Smiley" align="center">
 </div>
 </div>
 
@@ -38,5 +38,5 @@ to my personal GitHub profile!
 </div>
 
 <div align="center">
-<img src="https://github.com/luiscosio/luiscosio/raw/luiscosio/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
+<img src="https://raw.githubusercontent.com/luiscosio/luiscosio/main/img/ie.jpg" alt="Best viewed with Microsoft Internet Explorer" align="center" width="128">
 </div>
